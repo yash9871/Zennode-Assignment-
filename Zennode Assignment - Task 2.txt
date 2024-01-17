@@ -1,0 +1,26 @@
+Question 1. Why do you like to join as a Software developer?
+
+Answer . If I keep my answer simple and honest then it’s my dream to be a software developer. I love solving complex problems , also as a software developer you can make an impact on society by creating something very special . I have solved a lot of DSA problems till date because it helps me to increase my overall problem solving skills and most importantly I enjoys what I do. I have heard a lot about Zennode on many occasions which excites me more about this opportunity and I promise I will give my best to be a part of this great team . 
+
+Question 2. List top 3 softwares / tools that inspire you. Why do these tools inspire you ? 
+Answer. 
+1. Vs code = VS code is unbeatable till now in terms of features and overall experience of coding is excellent although it’s a person to person perspective but VS code forces me to use it and code . 
+
+2. ChatGPT = Honestly I have not used gpt to solve the assignment, you can ask me endless these types of questions in the interview also . But software like ChatGPT comes once in a generation and it makes your life a lot easier. You can use it to learn , research and what not . 
+
+3. LinkedIn = LinkedIn is a great place to be on . Way more better than Instagram. You can talk to people from your profession , you can take their guidance and no one says no . People are very generous and personally I have got to learn so much from LinkedIn. 
+
+Question 3. List top 3 organisations you like to join in your career & why you like these organisations.
+1. Netflix = I don't spend my time on netflix but what makes interests me about the company is that they always stay one step ahead of their competetiors in each and every aspect for examples - new features , their algorithms , their content , etc . and till data they are clearly focused on what they have started and why they have started .
+
+2. OpenAI = Ofcourse! Why not . They clearly tells us that size of a organisation doesn't matter what matters is people , if you have right kind of people then you an achieve anything . I mean such a small team can create such kind of software/technology that have the power to change the world . 
+
+3. Zennode = Everyone runs behind successful , i am not saying that zennode is not successful but we are still very young and if i can be a part of such a great team then why not . 
+
+Question 4. How you position yourself in this industry after 2 years ?
+I feel promotions are good but i have always felt great in mentoring my juniors . In 2 years of time i will be SDE-2 or a proper software developer at zennode and with coding and creating robust applications/software solutions with that if i can get a chance to mentor junior engineers who will join Zennode in future then I will be more than happy .
+
+Question 5. List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same. 
+1. Search feature => During my previous internship as a software developer at greysprings i developed a search feature on our company's e-commerce website . My role was end to end in this feature because no one asked me to do it , i just felt that products are increasing on the website so i added it . 
+2. Password Generator => In recent smartphones we get a feature of password suggestion whenever we login to a new website or app . I felt curious that i will do the same and then i generated a java console application where the user can tell its choices and my algorithm can generate a strong passwords . 
+3. Dijkstra visualizer => Graph algorithms are very widely used to solve different complex problems and when i got to that google maps uses similar kind of algorithm to find the shortest distance between two points then i developed this visualizer to know how it works .
